@@ -1,0 +1,22 @@
+{
+    "name": "vbl-pagination",
+    "version": "0.0.1",
+    "description": "Pagination component for vbl",
+    "main": "src/Pagination.vue",
+    "peerDependencies": {
+        "bulma": ">=0.4",
+        "vue": ">=2"
+    },
+    "repository": "vbl-pagination",
+    "keywords": [
+        "vue",
+        "bulma",
+        "laravel"
+        "vbl",
+        "vbl-component",
+        "vbl-pagination",
+        "pagination"
+    ],
+    "author": "Benny Leonard Enrico Panggabean <bendo01@gmail.com>",
+    "license": "MIT"
+}
